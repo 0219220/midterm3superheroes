@@ -1,2 +1,1 @@
-# midterm3superheropedia
-#install express and superheroes packages.
+install express and superheroes packages for this to work properly
